@@ -24,3 +24,13 @@ h1,h3{
   margin-right: auto;
   width: 20%;
 }
+
+.upg{
+  background-color: red;
+}
+
+/*****************************************id Style*******************************************************/
+#last
+{
+  background-color: khaki;
+}
